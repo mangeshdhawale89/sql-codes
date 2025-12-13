@@ -1,0 +1,251 @@
+Sender,Sender_ID,ProductionDate,DeliveryDate,ArrivalDate,Load_Port,LoadPort_Term,Disch_Port,DischPort_Term,Units,Cargo_Segment,BrandName,Model,L_m,Width_m,Height_m,Weight,CBM,Booking,GateIn,CreatedBy,Ref
+Kia Customer,CYAQRS3M5O,2025-02-18,2024-01-10,2024-01-10,Mumbai,Terminal-3,Antwerp,Terminal-1,3,Car,Kia,Carens,4.7,1.48,1.48,,,BKG-726830,,system,RY9Y5EDM22
+Kia Customer,CK2MLFDTLT,2024-07-03,2025-06-19,2025-06-19,Nhava Sheva,Terminal-5,Singapore,Terminal-5,4,SUV,Kia,Carens,,,,,,BKG-389515,,system,R2KJ04Y16N
+Kia Customer,CLOHTHJZAF,2025-04-24,,2025-04-24,Chennai,Nhava Sheva,Antwerp,Terminal-3,4,LCV,Kia,Carens,3.56,1.43,1.43,1574,,BKG-900991,,user_a,R037ODN65S
+Kia Customer,CULZ6WKKMY,2025-08-13,,2025-08-13,Nhava Sheva,Mumbai,Jebel Ali,Singapore,4,LCV,Kia,Seltos,3.74,1.77,1.77,1738,,BKG-759259,2025-12-29 12:50,system,RGU65M7AA6
+Kia Customer,CMS126I93C,,2024-01-24,2024-01-24,Chennai,Mundra,Durban,Durban,4,LCV,Kia,Seltos,,,,2016,11.5,BKG-534938,2024-11-11 07:33,system,R3V3CZBSQ5
+Kia Customer,CXOQHOJ8QD,2025-01-27,2025-12-31,2025-12-31,Mundra,Terminal-2,Jebel Ali,Colombo,4,LCV,Kia,Seltos,,,,1991,11.85,BKG-028769,2024-09-04 13:19,system,RPFQNRH1C5
+Kia Customer,CC3VLY26Y7,,2024-01-27,2024-01-27,Nhava Sheva,Mundra,Jebel Ali,Terminal-5,4,SUV,Kia,Carens,,,,1176,13.91,BKG-430294,2024-12-18 03:56,user_a,RJ52T2PM31
+Kia Customer,C1M3A2V818,,2025-04-10,2025-04-10,Chennai,Nhava Sheva,Antwerp,Colombo,3,LCV,Kia,Sonet,,,,1670,10.67,BKG-910543,,user_a,RM5ZV9Z8CU
+Kia Customer,CC51SJ92IE,2024-05-30,2025-06-15,2025-06-15,Nhava Sheva,Mundra,Antwerp,Terminal-2,3,Car,Kia,Sonet,4.81,1.62,1.62,1491,,BKG-187850,,user_b,R0WZUWTQH6
+Kia Customer,CEQQR7D6E5,,2025-04-21,2025-04-21,Chennai,Nhava Sheva,Jebel Ali,Terminal-1,2,LCV,Kia,Seltos,,,,,,BKG-540062,2025-12-08 03:25,user_a,R5ZPLYO0SU
+Kia Customer,CWERX6TP9Q,,2025-08-06,2025-08-06,Nhava Sheva,Mumbai,Antwerp,Antwerp,3,SUV,Kia,Carens,4.88,1.77,1.77,,,BKG-635613,2025-05-29 01:01,user_a,R1IPJJ9R51
+Kia Customer,CEUDDVA3PQ,,,,Nhava Sheva,Terminal-1,Jebel Ali,Antwerp,4,SUV,Kia,Carens,,,,,,BKG-351813,2024-08-16 11:15,user_b,R7083DDMKO
+Kia Customer,CZRMT0NHB6,,2024-08-26,2024-08-26,Chennai,Nhava Sheva,Colombo,Jebel Ali,4,LCV,Kia,Seltos,4.39,1.69,1.69,1633,,BKG-569252,,user_b,RLLU5BO812
+Kia Customer,CKW51D3JJH,,,,Mundra,Mundra,Jakarta,Singapore,2,Car,Kia,Carens,4.45,1.75,1.75,,,BKG-575111,2025-06-07 04:46,user_b,R1857D528Y
+Kia Customer,CS8B04A9YZ,2024-03-03,2025-10-05,2025-10-05,Nhava Sheva,Mumbai,Jakarta,Singapore,3,Car,Kia,Sonet,,,,1772,11.58,BKG-949411,,user_a,RJLWXWU1R0
+Kia Customer,CXLZE639KW,,2024-03-08,2024-03-08,Nhava Sheva,Terminal-1,Durban,Terminal-1,1,Car,Kia,Sonet,4.99,1.8,1.8,,,BKG-396946,2025-09-15 09:23,user_b,RJVHC4O8NM
+Kia Customer,C07Y9T4XY8,2024-12-18,,2024-12-18,Mumbai,Terminal-4,Durban,Singapore,3,SUV,Kia,Sonet,,,,,,BKG-396527,2024-12-06 20:57,user_b,R8KCXHHDAS
+Kia Customer,CF96LS9TZJ,2025-10-01,2025-11-25,2025-11-25,Chennai,Mundra,Durban,Terminal-5,2,SUV,Kia,Sonet,,,,1719,12.76,BKG-778351,,system,RRHQ1FNTTU
+Kia Customer,CVYEJL0TI4,2024-09-19,2024-01-23,2024-01-23,Nhava Sheva,Mundra,Durban,Antwerp,3,LCV,Kia,Carens,3.81,1.53,1.53,,,BKG-836777,,user_b,R7A0KLL5ZN
+Kia Customer,CWXEFJRPD5,,,,Mundra,Nhava Sheva,Jakarta,Singapore,3,Car,Kia,Seltos,3.91,1.48,1.48,,,BKG-940184,,user_b,RDZWACZHZE
+Kia Customer,CQIH029NLK,,,,Mundra,Nhava Sheva,Jebel Ali,Terminal-1,4,SUV,Kia,Carens,,,,1755,,BKG-663168,,user_a,R0NW60JSCT
+Kia Customer,CGK783NC8M,2025-05-28,,2025-05-28,Nhava Sheva,Nhava Sheva,Antwerp,Jebel Ali,3,LCV,Kia,Sonet,,,,,19.43,BKG-936261,2024-07-22 04:35,system,RJS7YUCF6W
+Kia Customer,CSE9DN1NZI,,2024-12-09,2024-12-09,Chennai,Terminal-3,Durban,Antwerp,1,Car,Kia,Sonet,4.66,1.52,1.52,,,BKG-223302,,user_a,RM6EERR7EB
+Kia Customer,CVXLCM4Y2W,2025-02-16,,2025-02-16,Nhava Sheva,Mumbai,Colombo,Jakarta,2,LCV,Kia,Carens,4.1,1.64,1.64,1921,,BKG-400118,,user_b,R8MGBC52R3
+Kia Customer,C6HT3IE68P,2025-10-26,,2025-10-26,Nhava Sheva,Chennai,Antwerp,Jebel Ali,1,SUV,Kia,Carens,,,,2167,9.54,BKG-165730,2025-01-13 15:34,system,RICHEX7SAO
+Kia Customer,CNUHCKXR5S,,,,Mumbai,Nhava Sheva,Colombo,Durban,4,LCV,Kia,Carens,3.77,1.57,1.57,2101,,BKG-230142,,system,RJ7P3OPBL1
+Kia Customer,CPH3QVPSKZ,2025-05-16,,2025-05-16,Nhava Sheva,Mundra,Jebel Ali,Jakarta,1,LCV,Kia,Carens,,,,1138,14.29,BKG-585348,2024-08-06 10:17,user_a,RXVWBQ2C6X
+Kia Customer,CFGMGWUTNY,2024-09-25,,2024-09-25,Mundra,Mundra,Antwerp,Terminal-2,3,Car,Kia,Seltos,4.01,1.9,1.9,,,BKG-425416,,user_b,RJPF02AEJA
+Kia Customer,CZ85DKQBO8,2024-12-14,,2024-12-14,Nhava Sheva,Mundra,Durban,Antwerp,2,Car,Kia,Seltos,,,,1731,,BKG-737911,,user_a,R0B6NWY1MT
+Kia Customer,C22YBUR0K8,,,,Nhava Sheva,Mumbai,Jebel Ali,Terminal-1,4,SUV,Kia,Seltos,3.69,1.69,1.69,,,BKG-135150,,system,RCJ2JGB36H
+Kia Customer,CW856U0RKT,2025-04-22,,2025-04-22,Nhava Sheva,Mundra,Colombo,Singapore,4,Car,Kia,Sonet,,,,,,BKG-975102,,user_b,R7FHI7FHRB
+Kia Customer,CYOJB47ZPO,2024-10-12,,2024-10-12,Mundra,Mumbai,Jebel Ali,Singapore,2,LCV,Kia,Carens,,,,1495,,BKG-541823,,user_a,RRNB84XX9J
+Kia Customer,CAL23IQG1O,2025-04-14,2024-02-03,2024-02-03,Mundra,Terminal-4,Durban,Singapore,3,Car,Kia,Sonet,4.64,1.64,1.64,1341,,BKG-059332,,user_a,RV1CRMGVGQ
+Kia Customer,CFMTCP2R7D,,,,Nhava Sheva,Chennai,Jebel Ali,Colombo,3,LCV,Kia,Carens,,,,,15.16,BKG-858244,,user_b,RKS02QH4E3
+Kia Customer,CBB3RNWYXA,,2024-12-09,2024-12-09,Nhava Sheva,Chennai,Singapore,Singapore,2,SUV,Kia,Seltos,4.11,1.41,1.41,1985,,BKG-826244,2025-08-05 07:37,user_b,RFO0SKUJRO
+Kia Customer,C1BQ2S2WMS,2025-06-07,2024-08-07,2024-08-07,Nhava Sheva,Nhava Sheva,Durban,Jebel Ali,1,LCV,Kia,Seltos,,,,1809,16.75,BKG-572627,,user_a,RLERVER2YZ
+Kia Customer,CO5G5U6JDZ,2024-02-21,,2024-02-21,Nhava Sheva,Terminal-1,Colombo,Jebel Ali,2,SUV,Kia,Seltos,,,,,9.77,BKG-878254,,user_a,RLFUOK8CYS
+Kia Customer,CUDJO7417P,2025-08-10,,2025-08-10,Mundra,Terminal-4,Jakarta,Antwerp,3,SUV,Kia,Seltos,,,,1175,,BKG-695959,,user_a,RCGHJLZ2MD
+Kia Customer,CV4FHRQJ6F,,2024-06-07,2024-06-07,Chennai,Terminal-3,Jebel Ali,Durban,4,Car,Kia,Sonet,,,,1403,16.0,BKG-907859,2024-07-27 03:29,system,RBG7T0LSHG
+Kia Customer,CHYKIZ8V88,,2025-03-12,2025-03-12,Nhava Sheva,Terminal-2,Antwerp,Jakarta,1,LCV,Kia,Carens,,,,,11.77,BKG-329265,,user_a,RD2T8YFOTU
+Kia Customer,CQYP891XSD,,,,Chennai,Terminal-5,Singapore,Jakarta,3,SUV,Kia,Sonet,4.59,1.68,1.68,1355,,BKG-240254,,user_a,RY4CD3LIQA
+Kia Customer,C82GQT1KAY,2025-09-12,,2025-09-12,Nhava Sheva,Terminal-4,Colombo,Terminal-3,1,LCV,Kia,Sonet,4.75,1.44,1.44,1920,,BKG-460713,,user_a,R07NJ8A2E3
+Kia Customer,CEZT07BVQ4,,2024-04-15,2024-04-15,Nhava Sheva,Nhava Sheva,Colombo,Terminal-1,3,Car,Kia,Sonet,4.02,1.63,1.63,,,BKG-236031,,system,RSXF1GEHW9
+Kia Customer,CDV5QIN7ZX,2025-01-08,2025-09-24,2025-09-24,Chennai,Mundra,Jakarta,Terminal-2,4,LCV,Kia,Carens,4.84,1.5,1.5,2097,,BKG-441408,,user_a,R58M1MHJNB
+Kia Customer,CSLWEUZ1KH,2025-04-17,2025-12-21,2025-12-21,Mundra,Mundra,Durban,Colombo,1,LCV,Kia,Seltos,4.49,1.67,1.67,1125,,BKG-481959,,user_a,RA2FYRY92H
+Kia Customer,CYABZM36WK,2025-05-15,2024-11-24,2024-11-24,Nhava Sheva,Terminal-2,Antwerp,Jakarta,1,SUV,Kia,Seltos,4.9,1.52,1.52,1904,,BKG-174551,,system,R1HBGYB2DP
+Kia Customer,CLISYBW6MZ,2025-12-26,2024-12-21,2024-12-21,Mundra,Nhava Sheva,Singapore,Durban,4,Car,Kia,Sonet,,,,1361,,BKG-182865,,user_a,RC7HKHBEDB
+Kia Customer,CU5K78Y0WH,2025-10-16,,2025-10-16,Mundra,Terminal-1,Jakarta,Jebel Ali,2,Car,Kia,Carens,4.66,1.83,1.83,,,BKG-650304,2024-06-17 07:04,user_a,R9XED3A27F
+Kia Customer,C2YMVL2PJC,2024-01-07,2025-11-22,2025-11-22,Mumbai,Chennai,Colombo,Singapore,4,Car,Kia,Seltos,,,,1817,,BKG-553301,,user_b,RFIRMCLVVA
+Kia Customer,CNZIHSQ8LH,2025-10-16,2024-04-01,2024-04-01,Mundra,Terminal-3,Singapore,Jebel Ali,2,Car,Kia,Seltos,4.65,1.85,1.85,,,BKG-933310,,user_b,RZ67YYKL4R
+Kia Customer,C9YG0QLWE1,2025-07-16,2025-04-22,2025-04-22,Chennai,Nhava Sheva,Jebel Ali,Singapore,3,Car,Kia,Seltos,,,,1214,11.25,BKG-724509,,system,RV3Q95EPQX
+Kia Customer,CP4WG6RPDH,,2025-04-23,2025-04-23,Mundra,Nhava Sheva,Jakarta,Singapore,3,SUV,Kia,Sonet,4.89,1.51,1.51,,,BKG-930957,,user_b,R6U5CKNHP4
+Kia Customer,CMPLRPMXYR,,,,Mumbai,Nhava Sheva,Colombo,Terminal-1,4,SUV,Kia,Carens,,,,1259,,BKG-574230,,user_a,RW54OQLFJ8
+Kia Customer,CHZ3GNZDFQ,2025-12-10,2025-10-05,2025-10-05,Mumbai,Mumbai,Singapore,Jebel Ali,2,Car,Kia,Sonet,3.57,1.42,1.42,1513,,BKG-172056,2025-12-17 12:56,user_a,RNLZ5KQVQD
+Kia Customer,CL5KV4Y4CV,2025-10-09,,2025-10-09,Chennai,Terminal-5,Jakarta,Jakarta,4,LCV,Kia,Seltos,4.92,1.78,1.78,1392,,BKG-609505,,user_b,RQ1EKVIPAT
+Kia Customer,CWDX68C4NR,2024-11-25,2025-09-11,2025-09-11,Chennai,Terminal-3,Antwerp,Durban,2,Car,Kia,Sonet,,,,1544,18.44,BKG-020520,,user_a,RJBQPLBNE9
+Kia Customer,C69YDYVE13,2025-08-16,2025-01-23,2025-01-23,Chennai,Chennai,Singapore,Colombo,3,SUV,Kia,Carens,4.36,1.82,1.82,1854,,BKG-539476,,system,RO4DNUYJB5
+Kia Customer,CNV1VM2HJJ,,,,Chennai,Terminal-4,Jebel Ali,Durban,3,LCV,Kia,Sonet,3.53,1.51,1.51,,,BKG-625474,2025-07-28 16:05,system,RZIRLYFHJF
+Kia Customer,CIS1WBSCYG,2025-09-08,2025-03-02,2025-03-02,Mumbai,Mumbai,Durban,Jakarta,3,LCV,Kia,Seltos,4.16,1.84,1.84,1101,,BKG-823658,,user_a,RVR2BKF59V
+Kia Customer,C2X8IWDRYH,2024-05-07,,2024-05-07,Mumbai,Terminal-1,Antwerp,Jebel Ali,2,SUV,Kia,Carens,4.45,1.48,1.48,1463,,BKG-764295,2025-05-27 05:48,system,RC54W7RPNK
+Kia Customer,CS83JQ1NKW,2024-06-17,,2024-06-17,Mundra,Mundra,Singapore,Jakarta,2,LCV,Kia,Seltos,,,,1017,12.62,BKG-361226,,system,RV3C3K77JJ
+Kia Customer,CYQMIJAJND,,2024-11-09,2024-11-09,Mundra,Chennai,Colombo,Terminal-4,3,LCV,Kia,Seltos,3.71,1.82,1.82,1012,,BKG-023375,,user_a,RN55V6J9RU
+Kia Customer,CJHHR6E1PE,2025-09-24,2025-05-26,2025-05-26,Mundra,Terminal-2,Antwerp,Jebel Ali,3,Car,Kia,Sonet,,,,1100,19.27,BKG-786202,2024-08-23 14:58,system,RQ6VM3BY4I
+Kia Customer,CDAMT8QM76,2025-01-16,,2025-01-16,Chennai,Terminal-2,Durban,Jebel Ali,3,Car,Kia,Seltos,4.89,1.71,1.71,,,BKG-753575,,user_b,RED8WGE3ZI
+Kia Customer,CUQDVEAB7U,2024-07-19,2024-07-11,2024-07-11,Chennai,Mundra,Antwerp,Terminal-1,1,LCV,Kia,Sonet,3.5,1.5,1.5,,,BKG-669411,2025-10-25 07:00,system,RLRIUBR6D6
+Kia Customer,C94XQFKXM9,,2024-04-24,2024-04-24,Nhava Sheva,Chennai,Jakarta,Jebel Ali,2,Car,Kia,Carens,4.72,1.62,1.62,,,BKG-074534,,system,R5BNKAFPCX
+Kia Customer,CH41M4I299,2024-02-04,,2024-02-04,Chennai,Terminal-4,Jakarta,Jebel Ali,3,SUV,Kia,Seltos,,,,,9.65,BKG-582011,,system,RO9RE3DVSB
+Kia Customer,CAB2YU7YF9,,2024-08-26,2024-08-26,Chennai,Nhava Sheva,Colombo,Terminal-3,4,SUV,Kia,Sonet,,,,,,BKG-206235,,user_a,RMM04K3HF9
+Kia Customer,CPA29MFF0G,2024-11-07,,2024-11-07,Mumbai,Mundra,Colombo,Terminal-2,3,SUV,Kia,Carens,4.8,1.46,1.46,1738,,BKG-653208,,system,RZG42W6HDB
+Kia Customer,C8L3JDA0HX,2025-10-16,,2025-10-16,Mumbai,Terminal-1,Singapore,Antwerp,3,SUV,Kia,Carens,4.01,1.68,1.68,,,BKG-969436,,user_b,RU1RE07WXC
+Kia Customer,CTCY7SXP27,2025-08-22,2025-05-21,2025-05-21,Mundra,Mumbai,Singapore,Jakarta,1,LCV,Kia,Carens,,,,1877,14.36,BKG-895782,2025-09-08 07:43,user_a,ROCZUVQGPD
+Kia Customer,CMCHGUICYA,,2025-07-26,2025-07-26,Mundra,Terminal-3,Durban,Terminal-2,3,Car,Kia,Sonet,,,,,17.56,BKG-624505,,user_b,R01SVB8Q35
+Kia Customer,CCQ2IHW922,,2025-04-14,2025-04-14,Nhava Sheva,Mundra,Colombo,Jebel Ali,1,Car,Kia,Carens,4.92,1.71,1.71,1107,,BKG-096984,2025-08-31 22:29,system,RSEWYO0CAD
+Kia Customer,CAFF0GO357,2024-01-22,,2024-01-22,Mumbai,Nhava Sheva,Jakarta,Jebel Ali,1,LCV,Kia,Seltos,,,,983,,BKG-975771,,user_a,RW64B9KKC2
+Kia Customer,C1677SNPFC,2025-01-25,,2025-01-25,Nhava Sheva,Terminal-2,Antwerp,Terminal-5,4,SUV,Kia,Sonet,,,,1206,,BKG-397917,,user_a,R4JSLQM4L9
+Kia Customer,CIXWKP748F,2025-01-18,,2025-01-18,Chennai,Nhava Sheva,Jakarta,Colombo,2,Car,Kia,Seltos,,,,1415,9.7,BKG-274478,2025-06-14 05:11,user_b,RA6WB4KPBU
+Kia Customer,C48LVC9B2R,2025-12-27,,2025-12-27,Nhava Sheva,Terminal-5,Antwerp,Terminal-3,3,LCV,Kia,Carens,4.17,1.49,1.49,1064,,BKG-344716,,system,RMJQ0H4S41
+Kia Customer,C1TKRKV29Y,,2024-11-24,2024-11-24,Mundra,Nhava Sheva,Jebel Ali,Colombo,1,Car,Kia,Sonet,,,,1255,17.4,BKG-682478,,system,RTT9H9L80H
+Kia Customer,CFA2HZTEIW,2024-11-06,2025-09-11,2025-09-11,Nhava Sheva,Mumbai,Durban,Colombo,4,Car,Kia,Carens,3.74,1.78,1.78,1750,,BKG-030937,2025-01-24 04:13,user_a,RIJTET57MU
+Kia Customer,CV2E5NB7UD,,,,Mumbai,Mumbai,Durban,Durban,4,Car,Kia,Carens,,,,1646,15.2,BKG-103324,,user_b,RAWG5753PI
+Kia Customer,C55RCD48P6,2025-09-03,,2025-09-03,Chennai,Mundra,Colombo,Terminal-3,4,Car,Kia,Carens,,,,1025,8.95,BKG-217878,2025-05-24 09:45,user_b,RTVLLBTXJU
+Kia Customer,C6UVG7KMK0,,2025-09-13,2025-09-13,Mundra,Mundra,Durban,Jebel Ali,4,Car,Kia,Sonet,4.0,1.87,1.87,1331,,BKG-184583,,user_b,RMZTNE0V4H
+Kia Customer,C07V4GXOH4,2024-05-10,2025-11-01,2025-11-01,Nhava Sheva,Nhava Sheva,Antwerp,Durban,4,Car,Kia,Sonet,,,,1066,,BKG-197141,2024-07-30 11:35,user_a,RFKUGMMULT
+Kia Customer,C662K61GPZ,2025-11-28,2025-08-21,2025-08-21,Nhava Sheva,Nhava Sheva,Antwerp,Jakarta,2,Car,Kia,Seltos,3.6,1.74,1.74,1713,,BKG-470515,,user_b,RKXQLLOPEY
+Kia Customer,CE0L4OL5KP,2024-04-16,2025-12-01,2025-12-01,Chennai,Mumbai,Durban,Colombo,3,SUV,Kia,Carens,,,,973,,BKG-917153,,user_b,RI9IINELGV
+Kia Customer,C32SPXKKLJ,2024-03-04,2025-03-26,2025-03-26,Chennai,Chennai,Jakarta,Durban,4,LCV,Kia,Carens,,,,,,BKG-491888,,system,RSDI15H25Z
+Kia Customer,C9G6MQ9PBN,,2024-02-27,2024-02-27,Mundra,Mundra,Antwerp,Singapore,1,Car,Kia,Sonet,,,,1848,16.82,BKG-463871,,user_a,RJDZCYA1JU
+Kia Customer,CTYASDWTTV,2024-01-06,,2024-01-06,Chennai,Mundra,Durban,Jakarta,2,LCV,Kia,Seltos,,,,1551,,BKG-816460,,user_b,R8QNPAS8PP
+Kia Customer,CIS69OP2C8,2025-06-14,,2025-06-14,Chennai,Nhava Sheva,Singapore,Terminal-5,2,Car,Kia,Carens,,,,1527,12.94,BKG-219764,2024-12-18 10:39,user_a,RPNDSEP5WM
+Kia Customer,CGGD08KIMG,2024-09-14,2025-07-01,2025-07-01,Mundra,Mumbai,Colombo,Terminal-4,4,SUV,Kia,Carens,,,,,9.32,BKG-462632,2025-06-11 15:13,system,R166S78KB2
+Kia Customer,CTXLPUP0T2,2025-01-23,2025-01-17,2025-01-17,Mundra,Terminal-1,Jebel Ali,Antwerp,3,LCV,Kia,Seltos,,,,1035,8.78,BKG-288972,,system,RP13E09WQ4
+Kia Customer,CI9PYQLD56,2024-08-29,,2024-08-29,Mundra,Mumbai,Durban,Jebel Ali,1,LCV,Kia,Carens,3.74,1.42,1.42,2021,,BKG-179292,,user_a,R0SRY7RY73
+Kia Customer,CM4SJSSZXQ,,,,Mundra,Terminal-4,Singapore,Terminal-4,4,Car,Kia,Carens,,,,1713,8.13,BKG-080962,2025-09-18 01:59,user_b,RZ72WUMA48
+Kia Customer,C89UKAI77L,,2025-03-11,2025-03-11,Chennai,Terminal-2,Antwerp,Jakarta,2,Car,Kia,Carens,4.6,1.47,1.47,1910,,BKG-793082,2025-07-30 09:38,user_a,RPI91PY9T2
+Kia Customer,COF1QRF87H,2025-03-10,2025-07-09,2025-07-09,Mundra,Mumbai,Durban,Jebel Ali,1,SUV,Kia,Sonet,3.75,1.64,1.64,,,BKG-799663,,system,R9C56B1UBB
+Kia Customer,C520HH3FC5,,2024-09-14,2024-09-14,Nhava Sheva,Terminal-5,Colombo,Antwerp,1,SUV,Kia,Seltos,,,,,19.72,BKG-748679,,system,RBDE6TEZ66
+Kia Customer,CJC57V3WPX,2024-08-18,,2024-08-18,Mundra,Chennai,Colombo,Jakarta,3,SUV,Kia,Seltos,,,,1904,,BKG-493694,,system,RPN1QY8ECV
+Kia Customer,CWAGP510LG,,,,Mundra,Mundra,Durban,Singapore,4,LCV,Kia,Sonet,4.41,1.59,1.59,1002,,BKG-609949,,user_b,RVX4OX3KXR
+Kia Customer,CAYQN92T2K,2025-02-16,2025-05-28,2025-05-28,Nhava Sheva,Terminal-2,Durban,Antwerp,4,SUV,Kia,Sonet,4.55,1.76,1.76,1189,,BKG-291119,,system,REPLI20AK6
+Kia Customer,CXPG3JPA9F,,2025-08-06,2025-08-06,Mumbai,Terminal-1,Durban,Singapore,4,SUV,Kia,Seltos,,,,,,BKG-145586,,user_b,R1IHHQPST2
+Kia Customer,C8D9M0IB3W,,,,Chennai,Nhava Sheva,Colombo,Jakarta,3,Car,Kia,Sonet,4.29,1.46,1.46,1430,,BKG-160929,,system,R7G620COFZ
+Kia Customer,C8YIVC99BX,2025-03-30,2025-07-05,2025-07-05,Nhava Sheva,Terminal-5,Singapore,Colombo,1,SUV,Kia,Sonet,3.78,1.43,1.43,1727,,BKG-240491,2025-12-27 07:15,user_a,R9YRODT2DT
+Kia Customer,CJOHTRFOZL,,,,Mumbai,Mundra,Jakarta,Durban,2,LCV,Kia,Seltos,3.62,1.55,1.55,1719,,BKG-665805,,user_a,R67U29X5LA
+Kia Customer,CVNIK2INKU,2024-08-16,2024-12-19,2024-12-19,Mumbai,Nhava Sheva,Jakarta,Jakarta,4,SUV,Kia,Carens,,,,1635,,BKG-116397,2024-11-27 07:15,system,RFAQNC4429
+Kia Customer,CXYEP6C15R,,2025-07-21,2025-07-21,Mumbai,Mumbai,Singapore,Jebel Ali,3,SUV,Kia,Sonet,4.34,1.75,1.75,1553,,BKG-599256,,user_a,RL7MHEK99L
+Kia Customer,CTLVVBA0YP,2024-08-01,2024-02-23,2024-02-23,Mundra,Nhava Sheva,Colombo,Singapore,1,LCV,Kia,Seltos,4.66,1.73,1.73,1823,,BKG-785408,,user_a,R39YUV3FJE
+Kia Customer,CTCFSBNB70,2025-10-19,,2025-10-19,Mumbai,Mundra,Durban,Antwerp,3,LCV,Kia,Seltos,4.64,1.6,1.6,,,BKG-953655,2024-01-16 19:55,user_b,R73MLC16X7
+Kia Customer,COAXLW5M4E,2024-02-18,,2024-02-18,Chennai,Mumbai,Colombo,Singapore,4,SUV,Kia,Sonet,3.96,1.57,1.57,,,BKG-888030,,user_b,RNQLTU3RZI
+Kia Customer,CLFY1U7N4V,2024-02-12,2025-12-22,2025-12-22,Mumbai,Chennai,Antwerp,Durban,3,Car,Kia,Seltos,,,,1311,11.2,BKG-261185,2025-10-25 13:48,system,RRGWT282A6
+Kia Customer,CLHH5SJFNL,,2024-01-14,2024-01-14,Nhava Sheva,Mundra,Durban,Colombo,3,LCV,Kia,Seltos,,,,,,BKG-003569,,user_b,REQN664JY9
+Kia Customer,C5EY4948JO,,,,Mundra,Mumbai,Durban,Jebel Ali,4,SUV,Kia,Carens,4.34,1.64,1.64,1460,,BKG-413452,,system,R1WOR2PMWM
+Kia Customer,CPJ4WDXDNF,2024-07-04,2024-07-07,2024-07-07,Chennai,Mumbai,Antwerp,Terminal-3,2,Car,Kia,Sonet,3.91,1.8,1.8,,,BKG-036093,2024-04-21 14:57,system,RRKGL9UGGG
+Kia Customer,CSM897JHHZ,,,,Mundra,Mumbai,Singapore,Singapore,3,Car,Kia,Sonet,4.07,1.89,1.89,,,BKG-814547,,user_a,RRU4NSIKFE
+Kia Customer,C7SPLJCP1Y,2024-04-16,,2024-04-16,Mumbai,Mumbai,Durban,Jebel Ali,2,Car,Kia,Sonet,,,,2198,12.0,BKG-498083,2025-03-21 21:06,user_b,R89MRGP8J0
+Kia Customer,CNXXKMLMK4,2025-05-13,2024-04-23,2024-04-23,Mundra,Chennai,Jebel Ali,Jakarta,2,SUV,Kia,Carens,,,,,15.55,BKG-594540,,user_b,RJ6SC3LFQG
+Kia Customer,CMIXNAM0YW,2025-01-29,2024-10-09,2024-10-09,Mumbai,Chennai,Durban,Jebel Ali,4,Car,Kia,Sonet,,,,,,BKG-719124,,system,RJH7NBVJIH
+Kia Customer,CQGKNHX3VK,,,,Nhava Sheva,Chennai,Durban,Jakarta,4,Car,Kia,Carens,4.74,1.53,1.53,1321,,BKG-487062,,user_a,RDCWDHNLBX
+Kia Customer,CGGJMQ6GXL,2025-10-23,2025-08-11,2025-08-11,Mundra,Terminal-5,Singapore,Colombo,1,LCV,Kia,Carens,3.93,1.61,1.61,,,BKG-483564,,system,RF43YWLPTP
+Kia Customer,CI1ZSMH12G,2024-03-14,,2024-03-14,Mundra,Mumbai,Jebel Ali,Colombo,3,SUV,Kia,Seltos,4.66,1.44,1.44,,,BKG-257245,2025-12-10 04:23,user_a,R5HWGMI1GC
+Kia Customer,C80X30F0Q8,,,,Nhava Sheva,Chennai,Durban,Jebel Ali,1,Car,Kia,Sonet,,,,,19.82,BKG-881872,,system,RG4PSEFMJJ
+Kia Customer,CDXJEWR5RS,,2024-07-26,2024-07-26,Mumbai,Nhava Sheva,Jakarta,Durban,1,Car,Kia,Sonet,3.85,1.77,1.77,1161,,BKG-151973,,user_a,RVBGN0ZD54
+Kia Customer,C0P2WAGHPA,,2025-04-09,2025-04-09,Chennai,Nhava Sheva,Singapore,Antwerp,1,LCV,Kia,Carens,3.87,1.67,1.67,1625,,BKG-706499,,user_b,RSDUX5WK86
+Kia Customer,CE4L1667HH,,2025-01-05,2025-01-05,Chennai,Nhava Sheva,Singapore,Jakarta,4,SUV,Kia,Sonet,3.76,1.44,1.44,,,BKG-589357,2024-04-01 12:10,system,RZYM4DZJQ2
+Kia Customer,C7Y91QUB7T,,2025-11-09,2025-11-09,Mundra,Mumbai,Singapore,Terminal-5,3,Car,Kia,Seltos,4.69,1.44,1.44,1596,,BKG-210571,2024-12-19 22:55,system,RPX116DBJX
+Kia Customer,CMXZYRJFVO,2024-03-02,,2024-03-02,Chennai,Nhava Sheva,Jebel Ali,Terminal-3,4,Car,Kia,Carens,,,,1518,17.58,BKG-322582,2025-02-11 00:54,system,RJTDKWEY7Z
+Kia Customer,CXDF21O752,2024-04-10,,2024-04-10,Mumbai,Mumbai,Durban,Singapore,4,LCV,Kia,Carens,4.01,1.63,1.63,,,BKG-766398,,system,RQXIPE46IV
+Kia Customer,CQRBEIIA7G,,2025-01-11,2025-01-11,Nhava Sheva,Mundra,Antwerp,Jakarta,2,Car,Kia,Seltos,3.96,1.63,1.63,1707,,BKG-935569,,system,RFXHN5A5W9
+Kia Customer,CHL5ZL0KGS,,2025-05-23,2025-05-23,Chennai,Nhava Sheva,Antwerp,Antwerp,3,LCV,Kia,Seltos,3.87,1.59,1.59,1401,,BKG-678575,,user_a,R9QT9HGYR9
+Kia Customer,CXLBL9SA86,,,,Mumbai,Mundra,Jebel Ali,Antwerp,2,LCV,Kia,Carens,,,,,13.2,BKG-211033,,system,R3OKQFC6O8
+Kia Customer,CXOW7NSZA2,,,,Chennai,Mumbai,Colombo,Jebel Ali,2,Car,Kia,Sonet,,,,1985,13.84,BKG-806481,,user_a,R4KDTE0M89
+Kia Customer,CQLOLDA6NY,2024-07-07,2024-06-10,2024-06-10,Mundra,Chennai,Jebel Ali,Singapore,4,LCV,Kia,Carens,4.37,1.75,1.75,1715,,BKG-595705,2025-12-21 07:18,user_b,R401CGEH3X
+Kia Customer,CFBHNTIUWM,2024-02-06,2025-04-20,2025-04-20,Mumbai,Terminal-5,Singapore,Durban,4,Car,Kia,Seltos,4.94,1.82,1.82,1285,,BKG-566493,,system,ROWZGVN54O
+Kia Customer,C6FATLY4W3,,2024-07-21,2024-07-21,Mumbai,Mundra,Jebel Ali,Singapore,1,Car,Kia,Seltos,,,,1942,16.24,BKG-002921,2024-03-27 18:45,system,RZWVIHW991
+Kia Customer,CD4FUXAZK8,2024-06-23,,2024-06-23,Mundra,Mumbai,Colombo,Durban,2,LCV,Kia,Sonet,,,,1008,,BKG-982077,,user_b,RXIIDR90RX
+Kia Customer,CVELM5TSDP,,,,Mundra,Mumbai,Durban,Durban,3,LCV,Kia,Sonet,,,,1225,12.93,BKG-482481,,system,R153X7S445
+Kia Customer,C1N6WVOFVD,,2024-05-14,2024-05-14,Mundra,Chennai,Jebel Ali,Singapore,4,Car,Kia,Seltos,4.29,1.81,1.81,1008,,BKG-838310,,user_a,RTWU5SYQDC
+Kia Customer,CX1ZR99TGS,,,,Mumbai,Chennai,Durban,Jebel Ali,2,SUV,Kia,Seltos,,,,1808,13.98,BKG-688322,2025-01-25 18:29,system,R2UHU4AADQ
+Kia Customer,CHBA14CAZD,,2025-11-13,2025-11-13,Nhava Sheva,Terminal-3,Jakarta,Antwerp,2,LCV,Kia,Seltos,,,,1212,8.09,BKG-995135,,user_b,RDOOF2JJLP
+Kia Customer,CA8CAXJYKD,,,,Chennai,Nhava Sheva,Singapore,Durban,1,LCV,Kia,Seltos,4.19,1.51,1.51,1401,,BKG-848924,2025-07-12 11:50,user_a,RSJZ1B2R27
+Kia Customer,C4YDPOPDQ2,,2024-12-20,2024-12-20,Mumbai,Terminal-2,Durban,Jebel Ali,1,LCV,Kia,Sonet,,,,1225,,BKG-355754,,user_a,RGZMMPMZ69
+Kia Customer,CCP1YS813H,2025-06-12,,2025-06-12,Chennai,Mumbai,Jakarta,Durban,2,Car,Kia,Sonet,,,,1528,18.46,BKG-816029,,system,RUKBR3PT47
+Kia Customer,C4QRY3VVVF,,2024-01-01,2024-01-01,Nhava Sheva,Nhava Sheva,Jebel Ali,Jakarta,1,LCV,Kia,Seltos,,,,986,,BKG-795158,,user_a,REV8CZNQ85
+Kia Customer,C4ZWQT0YJY,,2024-04-11,2024-04-11,Mundra,Terminal-4,Colombo,Colombo,4,SUV,Kia,Sonet,3.78,1.86,1.86,1368,,BKG-904285,,user_a,RSVNAIU7HQ
+Kia Customer,C4324H90T1,2024-09-03,,2024-09-03,Mumbai,Mumbai,Colombo,Singapore,4,LCV,Kia,Sonet,,,,,,BKG-778914,2024-08-20 07:03,system,RL1LXK68GC
+Kia Customer,CXC6UAWZZV,2025-04-16,,2025-04-16,Mundra,Mundra,Durban,Antwerp,3,Car,Kia,Carens,,,,1692,19.5,BKG-007371,,system,RC90VFAQ6V
+Kia Customer,CYB606RP26,2025-03-12,,2025-03-12,Chennai,Chennai,Colombo,Jebel Ali,2,LCV,Kia,Sonet,,,,1425,17.65,BKG-273412,,user_b,R08XGYH6K9
+Kia Customer,C7NTHGE1SF,,2025-09-18,2025-09-18,Mumbai,Mundra,Colombo,Terminal-4,3,LCV,Kia,Sonet,,,,1886,13.59,BKG-375320,,user_a,REUJTEXY8D
+Kia Customer,CROJWJURRK,2025-07-17,,2025-07-17,Nhava Sheva,Mumbai,Jakarta,Antwerp,1,Car,Kia,Sonet,,,,1904,16.0,BKG-058991,,system,R5YSSNY20G
+Kia Customer,CH1LTOLEIE,2024-03-12,,2024-03-12,Mundra,Mumbai,Jebel Ali,Durban,4,LCV,Kia,Sonet,3.55,1.56,1.56,1995,,BKG-077647,,user_a,R432DA1MIO
+Kia Customer,CNCE98NFX0,,,,Mundra,Mundra,Jebel Ali,Antwerp,2,Car,Kia,Seltos,,,,1756,,BKG-081870,,system,RF0VBZ9J9L
+Kia Customer,CG9ZC2WOU0,2025-09-12,,2025-09-12,Mundra,Mundra,Singapore,Antwerp,3,SUV,Kia,Seltos,4.23,1.72,1.72,,,BKG-684194,,user_a,RPR6GBF6OV
+Kia Customer,C93F4KZL67,2025-04-23,2025-06-21,2025-06-21,Nhava Sheva,Terminal-3,Antwerp,Terminal-2,1,Car,Kia,Seltos,4.97,1.7,1.7,,,BKG-767609,,user_b,RUBSYFB8CX
+Kia Customer,CBKDNL9RAT,2025-06-05,,2025-06-05,Nhava Sheva,Chennai,Durban,Jebel Ali,1,Car,Kia,Sonet,,,,,,BKG-194428,,system,RFQJTP9H13
+Kia Customer,CI0TTCP01V,,2025-03-21,2025-03-21,Nhava Sheva,Chennai,Jebel Ali,Terminal-1,2,SUV,Kia,Sonet,,,,,10.78,BKG-935616,,user_a,RTJE1LAO6Q
+Kia Customer,CX8CID3YOS,2024-11-03,2025-04-25,2025-04-25,Nhava Sheva,Nhava Sheva,Durban,Jebel Ali,4,SUV,Kia,Sonet,,,,1519,,BKG-374299,,user_b,RHDAUGMYSR
+Kia Customer,CLDAI237S4,2024-06-07,,2024-06-07,Mumbai,Mumbai,Colombo,Terminal-3,4,Car,Kia,Sonet,4.54,1.42,1.42,2005,,BKG-363707,,user_b,RWJ09IOGLA
+Kia Customer,CB5G9MEGTI,2024-02-15,,2024-02-15,Mundra,Terminal-1,Singapore,Colombo,3,SUV,Kia,Seltos,,,,1147,,BKG-381882,,user_a,R336WDERU2
+Kia Customer,CPBQ7EA3MF,2025-01-08,2025-04-18,2025-04-18,Mundra,Nhava Sheva,Jebel Ali,Singapore,1,LCV,Kia,Carens,,,,2087,16.83,BKG-638209,,user_b,R0PKTNOWXZ
+Kia Customer,CA6AZH7PGS,2024-11-08,2024-01-09,2024-01-09,Nhava Sheva,Nhava Sheva,Colombo,Durban,2,Car,Kia,Seltos,,,,,,BKG-918966,2025-03-13 05:41,system,RZJBMERNTP
+Kia Customer,CF0R1WWHKX,2024-05-05,2025-06-26,2025-06-26,Mumbai,Mundra,Colombo,Antwerp,4,Car,Kia,Sonet,,,,973,15.82,BKG-036660,2025-05-07 11:31,user_a,RL8HS10T7R
+Kia Customer,CIN9Y4TLWF,2025-10-08,2025-07-08,2025-07-08,Nhava Sheva,Terminal-4,Durban,Jakarta,4,Car,Kia,Seltos,,,,,14.43,BKG-286041,2024-10-28 23:52,system,RGUCBFNXRL
+Kia Customer,CVMO4D0UTE,2025-09-23,2025-02-01,2025-02-01,Mumbai,Terminal-3,Singapore,Antwerp,3,LCV,Kia,Seltos,4.56,1.62,1.62,,,BKG-804213,2024-09-25 18:55,user_b,RWOUSOXLOP
+Kia Customer,CO3U1XMM1B,2024-06-22,2024-06-25,2024-06-25,Chennai,Nhava Sheva,Jakarta,Colombo,4,SUV,Kia,Seltos,,,,1462,,BKG-492767,,system,RKUT7646P9
+Kia Customer,CNR6RXEIBB,2025-07-24,,2025-07-24,Nhava Sheva,Chennai,Colombo,Jakarta,3,Car,Kia,Seltos,3.81,1.69,1.69,1281,,BKG-465607,2024-01-16 02:14,system,R4YGE3VJAD
+Kia Customer,CJIQPKNS75,,2025-05-18,2025-05-18,Mundra,Chennai,Durban,Terminal-5,2,Car,Kia,Seltos,3.66,1.68,1.68,,,BKG-996440,,user_a,RS0YVZVASI
+Kia Customer,CW2N5EOYUN,2025-04-26,,2025-04-26,Chennai,Terminal-1,Jakarta,Terminal-4,4,SUV,Kia,Carens,,,,1669,,BKG-492548,,user_b,R6QPHX3SBQ
+Kia Customer,C4IIQKDXGR,2024-09-11,2025-05-01,2025-05-01,Nhava Sheva,Mumbai,Colombo,Jebel Ali,3,SUV,Kia,Seltos,,,,,17.78,BKG-807304,,system,RCHWSPUGWS
+Kia Customer,C1BSH3BVUC,2025-05-26,2025-02-11,2025-02-11,Mumbai,Mundra,Jakarta,Singapore,3,LCV,Kia,Carens,,,,1220,,BKG-272083,,user_b,RT6TOEZ1FV
+Kia Customer,CZYOQJSNUR,,2024-05-24,2024-05-24,Mumbai,Mumbai,Durban,Terminal-4,4,SUV,Kia,Carens,3.88,1.82,1.82,,,BKG-066511,2024-12-07 22:39,user_b,R6RCSV79FC
+Kia Customer,CD7DID96JD,2024-11-15,,2024-11-15,Nhava Sheva,Nhava Sheva,Antwerp,Terminal-2,2,Car,Kia,Sonet,,,,1714,,BKG-935493,,user_b,ROGYNIOLOA
+Kia Customer,CA9DNOQ3XW,2024-11-20,,2024-11-20,Nhava Sheva,Nhava Sheva,Durban,Jebel Ali,3,SUV,Kia,Carens,,,,1436,,BKG-192925,,system,RMAAJ80CSB
+Kia Customer,CBKXDG1919,2025-04-11,,2025-04-11,Chennai,Mumbai,Jakarta,Durban,1,LCV,Kia,Seltos,4.4,1.77,1.77,,,BKG-863903,2025-08-03 21:47,user_b,RI8OL9ETN0
+Kia Customer,C6H5P51EH7,2024-05-23,2025-06-07,2025-06-07,Chennai,Chennai,Colombo,Jakarta,4,SUV,Kia,Carens,,,,1600,,BKG-365060,,system,RI9LE0NCNM
+Kia Customer,CJJQR1PFXT,2025-12-09,2024-01-29,2024-01-29,Mumbai,Chennai,Colombo,Colombo,1,SUV,Kia,Carens,4.79,1.76,1.76,1625,,BKG-114246,,system,RFZHFEFPQ5
+Kia Customer,CMAJKDPHJA,2025-07-08,2024-10-13,2024-10-13,Nhava Sheva,Mundra,Durban,Colombo,2,SUV,Kia,Sonet,3.62,1.45,1.45,1279,,BKG-256286,,user_b,RNUVLATZQL
+Kia Customer,CG2AZ7GKXQ,,2025-03-14,2025-03-14,Mumbai,Mumbai,Antwerp,Terminal-2,3,LCV,Kia,Sonet,,,,1659,14.52,BKG-294398,,system,RLPEB94SAR
+Kia Customer,C2JFWYRCBF,2024-01-05,2025-10-24,2025-10-24,Chennai,Mumbai,Durban,Singapore,2,Car,Kia,Carens,4.27,1.9,1.9,,,BKG-457885,,user_a,R2Y0JHPBGG
+Kia Customer,CR2BNLKAS9,2025-06-30,,2025-06-30,Mundra,Terminal-1,Singapore,Singapore,3,Car,Kia,Seltos,,,,,15.79,BKG-718430,,user_b,RKKD2D96IK
+Kia Customer,CSSH1Z97YT,,2025-08-12,2025-08-12,Nhava Sheva,Chennai,Antwerp,Terminal-5,3,LCV,Kia,Sonet,3.87,1.57,1.57,,,BKG-687347,,system,RB9VDX0BNH
+Kia Customer,CHAMWNTZT9,,,,Nhava Sheva,Terminal-1,Jakarta,Colombo,2,LCV,Kia,Seltos,,,,1234,,BKG-430389,2025-12-14 16:48,user_b,RJZEFZLUEH
+Kia Customer,C90ZUCED6I,,,,Chennai,Mumbai,Antwerp,Jakarta,3,SUV,Kia,Seltos,4.13,1.54,1.54,1080,,BKG-957056,,user_b,RXLL9VM5OU
+Kia Customer,CB9WBB5BAV,2025-06-30,2025-08-31,2025-08-31,Nhava Sheva,Nhava Sheva,Jakarta,Colombo,2,Car,Kia,Seltos,,,,1751,,BKG-357330,,user_b,RBMM3UXPAE
+Kia Customer,CF4TL0KJYZ,2024-11-29,,2024-11-29,Chennai,Chennai,Antwerp,Jebel Ali,3,SUV,Kia,Carens,,,,1804,14.9,BKG-892457,,user_b,RT0AW2059Z
+Kia Customer,CQPIZL7TD0,,2025-06-21,2025-06-21,Mumbai,Mundra,Colombo,Antwerp,3,Car,Kia,Seltos,,,,,15.18,BKG-545213,,system,RJXF9V5LDM
+Kia Customer,C4W8C3ZB58,,2024-09-17,2024-09-17,Mundra,Terminal-3,Antwerp,Jakarta,3,Car,Kia,Carens,4.7,1.73,1.73,1179,,BKG-842968,,user_b,R92YQO0RZ4
+Kia Customer,CA7MUDENCR,,2025-08-30,2025-08-30,Chennai,Nhava Sheva,Durban,Antwerp,4,LCV,Kia,Sonet,,,,1392,8.17,BKG-585947,,system,R4VIGPD98G
+Kia Customer,C27375C98T,2024-12-09,,2024-12-09,Chennai,Chennai,Jebel Ali,Antwerp,1,Car,Kia,Carens,,,,1317,8.81,BKG-186088,,system,R2D792HECO
+Kia Customer,C1J74IKFM3,,2025-12-03,2025-12-03,Nhava Sheva,Mumbai,Singapore,Jebel Ali,4,SUV,Kia,Seltos,,,,1263,,BKG-167210,,user_a,RAS5DZ63MJ
+Kia Customer,C8YK4CUC6J,2025-07-13,,2025-07-13,Mundra,Terminal-4,Jakarta,Terminal-4,2,SUV,Kia,Seltos,,,,,,BKG-241470,,user_b,R8YE9PN93Z
+Kia Customer,CI8D9L9XG2,,2024-07-01,2024-07-01,Mundra,Terminal-5,Singapore,Colombo,2,Car,Kia,Seltos,,,,,19.93,BKG-039648,,user_b,RB3PJB8ZE1
+Kia Customer,CBYJB3G7LM,2025-09-19,,2025-09-19,Nhava Sheva,Nhava Sheva,Colombo,Colombo,1,Car,Kia,Seltos,,,,,,BKG-552614,,user_b,R60AMHLTT7
+Kia Customer,C8TDP1FXKY,2024-12-26,,2024-12-26,Mundra,Nhava Sheva,Jakarta,Terminal-1,1,SUV,Kia,Carens,4.59,1.63,1.63,1716,,BKG-056461,2024-06-16 06:41,user_b,RJUKQ22TS2
+Kia Customer,CNF0DEZRH2,,2024-04-30,2024-04-30,Mumbai,Chennai,Singapore,Durban,3,LCV,Kia,Carens,4.69,1.55,1.55,1164,,BKG-391732,,user_a,R024P4AOQW
+Kia Customer,C0JUFZM8HE,2025-09-18,,2025-09-18,Mumbai,Nhava Sheva,Jebel Ali,Terminal-5,1,LCV,Kia,Carens,,,,,,BKG-829346,,user_a,RABSMYJE8M
+Kia Customer,CISE6JN59C,,2024-06-30,2024-06-30,Mundra,Mumbai,Jakarta,Singapore,3,SUV,Kia,Sonet,,,,1331,13.63,BKG-722330,2024-05-25 04:04,user_b,RDC885ITSZ
+Kia Customer,CP36Y5HTTN,2025-03-12,2025-02-21,2025-02-21,Nhava Sheva,Mundra,Jakarta,Colombo,4,SUV,Kia,Carens,4.48,1.76,1.76,,,BKG-262616,,user_b,REDN6BFHYH
+Kia Customer,CDSGC06L8Z,,2024-08-03,2024-08-03,Chennai,Terminal-3,Antwerp,Terminal-2,1,SUV,Kia,Carens,3.83,1.64,1.64,1572,,BKG-897975,,user_a,RAN7KNMSHO
+Kia Customer,C0Z5STDOY7,2025-06-28,2025-10-11,2025-10-11,Chennai,Mundra,Antwerp,Durban,3,Car,Kia,Carens,3.72,1.54,1.54,,,BKG-674987,,user_b,RQQF6Z6B95
+Kia Customer,CRU4BJNDMV,2024-08-20,2025-09-08,2025-09-08,Mundra,Chennai,Antwerp,Colombo,3,LCV,Kia,Sonet,,,,1906,15.45,BKG-013926,,user_a,R314CZOVFV
+Kia Customer,C4YI2Y7L1V,2025-12-16,,2025-12-16,Mundra,Terminal-5,Jebel Ali,Colombo,4,SUV,Kia,Sonet,4.37,1.6,1.6,1577,,BKG-482424,,user_a,RU3HPNIC9E
+Kia Customer,CPRRFOI0HL,,2025-05-21,2025-05-21,Mumbai,Terminal-1,Jebel Ali,Terminal-5,2,LCV,Kia,Seltos,,,,,,BKG-126000,,system,RX3QZDLRP9
+Kia Customer,CCJ2TJ20SA,2024-02-27,2024-07-09,2024-07-09,Nhava Sheva,Mumbai,Colombo,Colombo,3,SUV,Kia,Carens,,,,,,BKG-216126,,system,RN5W3XOPW7
+Kia Customer,CPA57I3K0M,,,,Nhava Sheva,Terminal-1,Singapore,Singapore,1,LCV,Kia,Carens,3.76,1.47,1.47,1237,,BKG-259385,,user_a,RA7QHYXT66
+Kia Customer,CLM6WG6A1A,2024-09-27,2024-10-20,2024-10-20,Chennai,Mundra,Jebel Ali,Terminal-1,1,LCV,Kia,Sonet,,,,1122,,BKG-655447,2024-10-01 13:20,system,RAFGGETOA2
+Kia Customer,CFFKEC1OCH,,,,Mumbai,Chennai,Singapore,Jakarta,2,LCV,Kia,Seltos,,,,1357,,BKG-161193,,system,RVUCSDSH76
+Kia Customer,C3JERZ5967,2024-12-19,2025-11-08,2025-11-08,Nhava Sheva,Chennai,Jebel Ali,Durban,4,Car,Kia,Sonet,,,,,19.24,BKG-045865,,user_a,R4FB69BX32
+Kia Customer,CUPRD00QII,,,,Chennai,Mundra,Singapore,Jebel Ali,3,LCV,Kia,Sonet,4.18,1.62,1.62,1681,,BKG-047647,,user_a,R75E06QWFT
+Kia Customer,CI9FC4Y7CQ,2025-04-05,,2025-04-05,Mundra,Chennai,Colombo,Terminal-4,2,SUV,Kia,Carens,,,,1830,15.88,BKG-184326,,user_b,RREOWS4ZBA
+Kia Customer,CHK6R92Z2A,2024-01-02,2024-01-10,2024-01-10,Chennai,Mundra,Jebel Ali,Terminal-1,2,SUV,Kia,Carens,,,,1448,,BKG-219421,,user_b,RB1TS46T1T
+Kia Customer,CSWFS5ZUTH,,,,Mumbai,Mumbai,Durban,Terminal-4,4,Car,Kia,Sonet,4.98,1.47,1.47,,,BKG-975859,,user_a,RBXZ8043JJ
+Kia Customer,C2GMQADSBR,,2024-06-19,2024-06-19,Mundra,Nhava Sheva,Jebel Ali,Antwerp,4,Car,Kia,Sonet,,,,986,12.21,BKG-493139,,system,RCEJK0N5TP
+Kia Customer,C787L6K1CN,2024-07-12,,2024-07-12,Chennai,Mumbai,Singapore,Durban,4,Car,Kia,Carens,4.16,1.63,1.63,1942,,BKG-429765,,system,ROAI3A7TC2
+Kia Customer,CJVR0HGL0D,2024-07-27,2025-05-03,2025-05-03,Chennai,Mumbai,Jebel Ali,Colombo,3,LCV,Kia,Carens,4.55,1.89,1.89,,,BKG-236397,,user_a,RSRVGKPYY7
+Kia Customer,CJ5YNHP95G,,2025-08-14,2025-08-14,Nhava Sheva,Terminal-2,Antwerp,Jebel Ali,2,Car,Kia,Carens,,,,1702,12.9,BKG-557561,,system,R76H282EPC
+Kia Customer,CGP215KRGT,2024-04-14,2025-09-14,2025-09-14,Mundra,Chennai,Durban,Singapore,2,Car,Kia,Seltos,,,,,,BKG-020955,,user_a,RRWXP2QHGD
+Kia Customer,CT2TKXZ0RW,2025-03-01,,2025-03-01,Mumbai,Terminal-1,Singapore,Colombo,3,LCV,Kia,Carens,3.58,1.84,1.84,,,BKG-737392,,user_b,RKYW64YB5B
+Kia Customer,CR0ZB6MIZE,,,,Chennai,Terminal-2,Antwerp,Terminal-5,3,SUV,Kia,Sonet,3.76,1.81,1.81,,,BKG-620553,,user_a,RFWPRGAP6O
+Kia Customer,CQEW0RJAOK,2024-02-09,2025-04-15,2025-04-15,Mundra,Nhava Sheva,Jakarta,Antwerp,1,LCV,Kia,Seltos,4.1,1.78,1.78,1026,,BKG-336355,2025-10-16 08:36,system,RT4ZBE4IMC
+Kia Customer,C0MJ8RX2JM,,2024-09-05,2024-09-05,Mumbai,Nhava Sheva,Jebel Ali,Singapore,4,Car,Kia,Carens,,,,,,BKG-806239,2024-09-13 14:43,system,R1PBTVR9SL
+Kia Customer,CWLDT1SQXZ,,2025-10-12,2025-10-12,Chennai,Chennai,Jakarta,Terminal-3,3,SUV,Kia,Seltos,4.22,1.66,1.66,1872,,BKG-489435,,user_b,RMZYL25K7I
+Kia Customer,C0LNRBDX39,,,,Chennai,Chennai,Singapore,Singapore,1,SUV,Kia,Seltos,,,,,,BKG-195052,2024-04-14 13:46,user_b,R7B9OL25IM
+Kia Customer,CLUF28GA7O,2025-01-01,2024-10-19,2024-10-19,Nhava Sheva,Mumbai,Colombo,Colombo,1,Car,Kia,Carens,4.59,1.73,1.73,,,BKG-508900,,user_a,RODUSSOJY7
+Kia Customer,CA5VK1M1F3,,2025-02-27,2025-02-27,Mumbai,Terminal-3,Jebel Ali,Durban,2,SUV,Kia,Sonet,,,,2012,,BKG-058793,2025-09-12 06:13,system,R3B15BP16L
+Kia Customer,C17DEHELYJ,,2025-04-11,2025-04-11,Nhava Sheva,Nhava Sheva,Colombo,Jebel Ali,1,LCV,Kia,Carens,3.94,1.59,1.59,1998,,BKG-232357,,system,RVQ5GXQOFS
+Kia Customer,CCV23JYZML,2024-01-18,2024-03-10,2024-03-10,Mundra,Mumbai,Durban,Jebel Ali,4,SUV,Kia,Seltos,,,,1728,,BKG-270762,2025-11-25 21:37,user_a,RL1CEXHTRW
+Kia Customer,CF72AKTVMC,,,,Mumbai,Nhava Sheva,Antwerp,Singapore,3,LCV,Kia,Seltos,,,,1779,,BKG-473110,,user_a,RKDDM5RVFH
+Kia Customer,CRZMS1208W,,2025-06-12,2025-06-12,Mundra,Mundra,Antwerp,Durban,3,SUV,Kia,Carens,,,,1853,,BKG-405664,2024-09-11 05:23,system,RTQ0HIZO25
+Kia Customer,CJ8JR78ICV,,,,Mundra,Terminal-1,Singapore,Colombo,1,Car,Kia,Seltos,4.68,1.51,1.51,,,BKG-510960,,system,RB1VBU6IJX
+Kia Customer,CSKFGQOMMY,2025-02-05,2025-01-17,2025-01-17,Mundra,Terminal-5,Jebel Ali,Jebel Ali,1,Car,Kia,Sonet,3.58,1.64,1.64,1727,,BKG-613783,2024-07-10 05:05,user_a,RC8MG29VQY
+Kia Customer,CBVSZHFICR,2024-05-03,2024-06-30,2024-06-30,Mundra,Mundra,Colombo,Jakarta,4,SUV,Kia,Sonet,4.6,1.73,1.73,1834,,BKG-628749,,user_a,R5PM7WN8W9
+Kia Customer,C77YY5L57S,,,,Chennai,Mundra,Colombo,Singapore,4,SUV,Kia,Carens,4.33,1.72,1.72,2006,,BKG-030793,,user_a,R73WES2VND
+Kia Customer,C05SXMOXJC,,2024-01-09,2024-01-09,Mumbai,Nhava Sheva,Durban,Jebel Ali,4,SUV,Kia,Seltos,3.54,1.77,1.77,1258,,BKG-632788,,user_b,R3KQUAEIRD
+Kia Customer,C33HKW1WLZ,,,,Chennai,Mumbai,Durban,Singapore,3,SUV,Kia,Seltos,,,,,19.4,BKG-287538,,user_b,RCTT4MYKKW
+Kia Customer,C8URJDM4AM,,,,Mumbai,Terminal-4,Antwerp,Antwerp,4,LCV,Kia,Seltos,,,,1204,19.67,BKG-151510,,user_b,RKX2323PTJ
+Kia Customer,CYETB15EGV,,2025-05-10,2025-05-10,Mundra,Terminal-3,Durban,Terminal-1,4,SUV,Kia,Sonet,4.28,1.55,1.55,,,BKG-460889,2025-03-01 06:46,user_a,RH0DYSGP0M
+Kia Customer,C4ELSS84X0,2024-09-21,,2024-09-21,Chennai,Chennai,Antwerp,Jakarta,2,Car,Kia,Carens,,,,1842,17.74,BKG-446602,2024-04-23 07:59,system,RM55Z0FGCY
+Kia Customer,CE7BI3RHK7,2024-08-07,2025-11-08,2025-11-08,Chennai,Terminal-1,Jebel Ali,Jakarta,4,Car,Kia,Sonet,,,,,,BKG-544274,,user_b,RWKCUT54EH
+Kia Customer,CVRG4U5FHS,,2025-12-13,2025-12-13,Nhava Sheva,Mumbai,Colombo,Colombo,3,Car,Kia,Seltos,,,,1645,,BKG-786021,,user_b,R2Q1YJUCYY
+Kia Customer,C6Q2MHI7O3,2025-10-26,2024-10-07,2024-10-07,Chennai,Chennai,Singapore,Jebel Ali,3,Car,Kia,Carens,3.91,1.58,1.58,1271,,BKG-351920,,user_a,ROMPO0N1DJ
+Kia Customer,CFY4DKV781,2024-07-28,2025-06-05,2025-06-05,Chennai,Chennai,Jebel Ali,Colombo,1,LCV,Kia,Carens,3.95,1.59,1.59,2190,,BKG-364682,,user_b,R7HACDDWJE
+Kia Customer,CUYJ3MJUU4,2024-08-21,,2024-08-21,Mundra,Mumbai,Durban,Terminal-3,2,SUV,Kia,Carens,4.25,1.44,1.44,1116,,BKG-018320,2024-06-19 16:43,user_b,RU1HQUBIQJ
+Kia Customer,CTMYU08QG1,2024-05-03,,2024-05-03,Chennai,Mundra,Durban,Singapore,4,SUV,Kia,Seltos,4.97,1.56,1.56,1267,,BKG-409773,,system,RLY3NFXF4U
+Kia Customer,CCIUBVX1BO,2024-10-16,2024-03-18,2024-03-18,Nhava Sheva,Mumbai,Jebel Ali,Singapore,2,SUV,Kia,Seltos,4.23,1.73,1.73,1578,,BKG-029584,,system,R6P4SRNKRB
+Kia Customer,C5WOBPPM7O,,,,Nhava Sheva,Chennai,Jebel Ali,Colombo,3,Car,Kia,Carens,4.12,1.69,1.69,,,BKG-606985,2025-01-22 23:01,user_b,R7YOENPX99
+Kia Customer,CTTQ82YB4M,2025-03-19,,2025-03-19,Mundra,Chennai,Colombo,Durban,2,SUV,Kia,Sonet,4.17,1.74,1.74,1825,,BKG-176191,,system,RHCK1DIV8U
+Kia Customer,CIMQZ300WZ,2024-04-04,,2024-04-04,Mundra,Chennai,Singapore,Singapore,2,LCV,Kia,Seltos,,,,2020,14.45,BKG-102473,,user_b,RATL77ZVC8
+Kia Customer,C41UDTYZHI,2025-09-30,2024-09-02,2024-09-02,Chennai,Terminal-4,Jakarta,Terminal-4,1,SUV,Kia,Carens,,,,1742,9.61,BKG-704468,,system,R6ZTSXAZVK
+Kia Customer,C0U6MY9HXB,2025-09-27,,2025-09-27,Mumbai,Terminal-4,Jebel Ali,Singapore,2,LCV,Kia,Sonet,,,,,,BKG-889494,2024-02-05 02:39,user_a,RESTL7JMRE
+Kia Customer,CVSXCVN6VD,,2024-06-08,2024-06-08,Mundra,Nhava Sheva,Colombo,Colombo,2,Car,Kia,Seltos,3.64,1.57,1.57,1973,,BKG-990718,2024-02-17 10:38,system,RD71PUKCT2
+Kia Customer,CTZUP0AGVN,,2025-03-13,2025-03-13,Mumbai,Terminal-3,Durban,Antwerp,2,SUV,Kia,Carens,,,,1179,,BKG-962304,,system,RLF2SABVOA
